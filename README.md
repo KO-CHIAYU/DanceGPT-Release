@@ -6,7 +6,7 @@
 
 ## DanceGPT Related Links
 
-- [DOWNLOAD Webpage](https://script.google.com/macros/s/AKfycbyuVjC3vly48jlISbayXYDCA79ooCBM2_8ufnnrvA3Uu2GgElU9GH8svKVOHB__oL2O/exec)
+- [DOWNLOAD Webpage](https://script.google.com/macros/s/AKfycbz_8SICc2npq99V2RBbhGVhyXmjk3t4zCWy2CEiJZz4NTuGlqYpWn3Tx8v3P_-yBWO4/exec)
 - [YouTube Channel](https://www.youtube.com/channel/UCyYkZx9CHB1phWXSBm_EUsw)
 - [Discord - Group Chat](https://discord.gg/qDYtguF8)
 - [LINE - OpenChat](https://line.me/ti/g2/YaS5cTVNrEduL831x3sYO_0mC6MaXAGTkHsy3Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
