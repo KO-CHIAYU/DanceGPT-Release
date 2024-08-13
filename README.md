@@ -57,6 +57,12 @@
 最後修訂日期：2024 年 7 月 31 日
 
 
+### 聯絡我們:
+
+- **Email:** [dancegpt0818@gmail.com](mailto:dancegpt0818@gmail.com)
+
+
+---
 
 
 ## DanceGPT Terms of Service
@@ -83,3 +89,10 @@ In order to fulfill our mission and provide services to you and other users, we 
 - You assume the risk of any losses caused by the product.
 
 Last revised: July 31, 2024
+
+
+### Contact Information:
+
+- **Email:** [dancegpt0818@gmail.com](mailto:dancegpt0818@gmail.com)
+
+---
