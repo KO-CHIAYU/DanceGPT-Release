@@ -12,7 +12,7 @@
 - [YouTube Channel](https://www.youtube.com/channel/UCyYkZx9CHB1phWXSBm_EUsw)
   
   <a href="https://www.youtube.com/watch?v=k2DSwJA6xig">
-  <img src="https://img.youtube.com/vi/k2DSwJA6xig/0.jpg" alt="DanceGPT 影片" width="330">
+  <img src="https://img.youtube.com/vi/k2DSwJA6xig/0.jpg" alt="DanceGPT 影片" width="300">
   </a>
 - [Discord - Group Chat](https://discord.gg/7bnXN2w9pB)
 - [LINE - OpenChat](https://line.me/ti/g2/YaS5cTVNrEduL831x3sYO_0mC6MaXAGTkHsy3Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
@@ -22,16 +22,17 @@
 
 ## Release Notes
 
-### Version 12.5 (2024-08-18)
+### Version 12.5-0003 (2024-08-26)
 
 - **新增功能 :**
-  - beta測試版
+  - 正式版
 
 - **改進和優化 :**
 
 - **Bug 修復 :**
 
 - **已知問題 :**
+  - 放buff期間會停止大約10秒才繼續動作
 
 - **其他 :**
 
@@ -65,7 +66,7 @@
 
 ### 聯絡我們:
 
-- **Email:** [dancegpt0818@gmail.com](mailto:dancegpt0818@gmail.com)
+- **Facebook或Discord私訊我**
 
 
 ---
@@ -99,6 +100,26 @@ Last revised: July 31, 2024
 
 ### Contact Information:
 
-- **Email:** [dancegpt0818@gmail.com](mailto:dancegpt0818@gmail.com)
+- **Facebook or Discord message me**
+
+---
+
+## 常見問題
+
+### 功能：
+
+- 
+
+### 下載與安裝：
+
+- 
+
+### 腳本設定：
+
+- 
+
+### Arduino :
+
+-
 
 ---
