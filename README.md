@@ -4,10 +4,16 @@
 
 **The Safest and Most Stable Intelligent Script**
 
+
+
 ## DanceGPT Related Links
 
 - [DOWNLOAD Webpage](https://script.google.com/macros/s/AKfycbx-AX-OU6u8KEOw4HNViLKsJ0Icw0Mq0nGX8UJGN3QEsT43B95w9rxBaZMDGehkA5p_/exec)
 - [YouTube Channel](https://www.youtube.com/channel/UCyYkZx9CHB1phWXSBm_EUsw)
+  
+  <a href="https://www.youtube.com/watch?v=k2DSwJA6xig">
+  <img src="https://img.youtube.com/vi/k2DSwJA6xig/0.jpg" alt="DanceGPT 影片" width="330">
+  </a>
 - [Discord - Group Chat](https://discord.gg/7bnXN2w9pB)
 - [LINE - OpenChat](https://line.me/ti/g2/YaS5cTVNrEduL831x3sYO_0mC6MaXAGTkHsy3Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
 - [Facebook - Groups](https://www.facebook.com/groups/1946366565692858/)
