@@ -80,10 +80,16 @@
 
 最後修訂日期：2024 年 7 月 31 日
 
+---
 
-### 聯絡我們:
+## 價格
 
-- **Facebook或Discord私訊我**
+**NT$ 199**
+
+## 聯絡我們
+
+- **Email:** [dancegpt0818@gmail.com](mailto:dancegpt0818@gmail.com)
+- **Facebook** 或 **Discord** 私訊我
 
 
 ---
@@ -114,10 +120,15 @@ In order to fulfill our mission and provide services to you and other users, we 
 
 Last revised: July 31, 2024
 
+---
 
-### Contact Information:
+## Price
 
-- **Facebook or Discord message me**
+**NT$ 199**
+
+### Contact Information
+- **Email:** [dancegpt0818@gmail.com](mailto:dancegpt0818@gmail.com)
+- **Facebook or Discord:** Message me
 
 ---
 
