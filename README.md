@@ -86,6 +86,11 @@
 
 **NT$ 199/月**
 
+- 購買後請立即聯絡管理員以啟用帳號權限。
+- 本產品為月訂閱制，期滿需再次付費。
+- 購買後無法退貨或更換。
+- 每套軟體僅限一台電腦使用。
+
 ## 聯絡我們
 
 - **Email:** [dancegpt0818@gmail.com](mailto:dancegpt0818@gmail.com)
@@ -125,6 +130,11 @@ Last revised: July 31, 2024
 ## Price
 
 **NT$ 199/mo**
+
+- Please contact the administrator immediately after purchase to activate account permissions.
+- This product is a monthly subscription and requires payment upon expiration.
+- No refunds or exchanges after purchase.
+- Each software license is limited to one computer.
 
 ### Contact Information
 - **Email:** [dancegpt0818@gmail.com](mailto:dancegpt0818@gmail.com)
