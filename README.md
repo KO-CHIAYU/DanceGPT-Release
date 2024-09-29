@@ -84,7 +84,7 @@
 
 ## 價格
 
-**NT$ 199**
+**NT$ 199/月**
 
 ## 聯絡我們
 
@@ -124,7 +124,7 @@ Last revised: July 31, 2024
 
 ## Price
 
-**NT$ 199**
+**NT$ 199/mo**
 
 ### Contact Information
 - **Email:** [dancegpt0818@gmail.com](mailto:dancegpt0818@gmail.com)
