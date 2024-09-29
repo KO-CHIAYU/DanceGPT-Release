@@ -8,7 +8,7 @@
 
 ## DanceGPT Related Links
 
-- [DOWNLOAD Webpage](https://script.google.com/macros/s/AKfycbx-AX-OU6u8KEOw4HNViLKsJ0Icw0Mq0nGX8UJGN3QEsT43B95w9rxBaZMDGehkA5p_/exec)
+- [DOWNLOAD Webpage](https://script.google.com/macros/s/AKfycbzy1AtjOThE6IUElYUt0A2JQ9Hprof_qHApTCH_vSnVnPcp20l9yWdJUYgDvn54jyE6/exec)
 - [YouTube Channel](https://www.youtube.com/watch?v=k2DSwJA6xig)
   
   <a href="https://www.youtube.com/watch?v=k2DSwJA6xig">
