@@ -90,6 +90,7 @@
 - 本產品為月訂閱制，期滿需再次付費。
 - 購買後無法退貨或更換。
 - 每套軟體僅限一台電腦使用。
+- 帳號權限的啟用日期起算一個月，假設啟用日期為10月10日，則到期日為11月10日（含）。
   
 ### ★ 如何獲得折扣？
 
@@ -146,6 +147,7 @@ Last revised: July 31, 2024
 - This product is a monthly subscription and requires payment upon expiration.
 - No refunds or exchanges after purchase.
 - Each software license is limited to one computer.
+- The activation date of the account permissions marks the start of the one-month period. For example, if the activation date is October 10, the expiration date will be November 10 (inclusive).
 
 ### ★ How to Obtain Discounts?
 
