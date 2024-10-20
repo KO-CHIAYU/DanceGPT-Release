@@ -90,6 +90,17 @@
 - 本產品為月訂閱制，期滿需再次付費。
 - 購買後無法退貨或更換。
 - 每套軟體僅限一台電腦使用。
+  
+### ★ 如何獲得折扣？
+
+#### ◎ 推薦計畫 (NT$140)
+  - 折扣期：推薦和被推薦人都享有一個月折扣
+  - 限制：每人僅可被推薦一次，推薦人無限制。被推薦人只限10/21之後註冊的帳號。
+
+#### ◎ 提供穩定腳本 (NT$140)
+  - 折扣期：享有一個月折扣
+  - 要求：運行超過 6 小時
+  - 包含：setting.txt, Script_main/body, 地圖, 職業, 鍵盤配置
 
 ## 聯絡我們
 
@@ -135,6 +146,17 @@ Last revised: July 31, 2024
 - This product is a monthly subscription and requires payment upon expiration.
 - No refunds or exchanges after purchase.
 - Each software license is limited to one computer.
+
+### ★ How to Obtain Discounts?
+
+#### ◎ Referral Program (NT$140)
+  - Discount Period: Both the referrer and the referred person enjoy a one-month discount.
+  - Restrictions: Each person can only be referred once, and there is no limit for the referrer. The referred person is limited to accounts registered after 10/21.
+
+#### ◎ Stable Script Offer (NT$140)
+  - Discount Period: Enjoy a one-month discount.
+  - Requirement: Must run for over 6 hours.
+  - Includes: setting.txt, Script_main/body, maps, professions, keyboard configurations.
 
 ### Contact Information
 - **Email:** [dancegpt0818@gmail.com](mailto:dancegpt0818@gmail.com)
