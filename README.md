@@ -144,6 +144,7 @@ Last revised: July 31, 2024
 
 **NT$ 199/mo**
 
+- Please read the user guide and feature description carefully to ensure it meets your expectations before making a purchase. (Please note that some features may not be available on private servers.)
 - Please contact the administrator immediately after purchase to activate account permissions.
 - This product is a monthly subscription and requires payment upon expiration.
 - No refunds or exchanges after purchase.
