@@ -22,22 +22,21 @@
 
 ## Release Notes
 
-### Version 13.2-0005 (2025-01-25)
+### Version 13.2-0008 (2025-03-18)
 
 - **新增功能：**
-  - 支援新版測謊警報
 
 - **改進和優化：**
   1. **此版本優化的功能：**
-     - 提示音效可個人設定
+     - 顯示當下跑的script & case
      - 連線穩定性
   3. **日後可能優化的功能：**
-     - 顯示當下跑的script & case
+     - 現成穩定腳本直接使用
      - MSN上跳 & 小地圖擷取
 
 
 - **Bug 修復：**
-     - 視窗偏移導致部分功能異常
+  
 
 - **已知問題：**
   1. **已確認：**
@@ -96,11 +95,6 @@
   - 折扣期：推薦和被推薦人都享有一個月折扣
   - 限制：每人僅可被推薦一次，推薦人無限制。被推薦人只限10/21之後註冊的帳號。
 
-#### ◎ 提供穩定腳本 (NT$140)
-  - 折扣期：享有一個月折扣
-  - 要求：運行超過 6 小時
-  - 包含：setting.txt, Script_main/body, 地圖, 職業, 鍵盤配置
-
 ## 聯絡我們
 
 - **Email:** [dancegpt0818@gmail.com](mailto:dancegpt0818@gmail.com)
@@ -153,11 +147,6 @@ Last revised: July 31, 2024
 #### ◎ Referral Program (NT$140)
   - Discount Period: Both the referrer and the referred person enjoy a one-month discount.
   - Restrictions: Each person can only be referred once, and there is no limit for the referrer. The referred person is limited to accounts registered after 10/21.
-
-#### ◎ Stable Script Offer (NT$140)
-  - Discount Period: Enjoy a one-month discount.
-  - Requirement: Must run for over 6 hours.
-  - Includes: setting.txt, Script_main/body, maps, professions, keyboard configurations.
 
 ### Contact Information
 - **Email:** [dancegpt0818@gmail.com](mailto:dancegpt0818@gmail.com)
