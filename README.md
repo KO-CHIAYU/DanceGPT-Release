@@ -15,7 +15,7 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
 - [💾 DOWNLOAD Webpage](https://script.google.com/macros/s/AKfycbzy1AtjOThE6IUElYUt0A2JQ9Hprof_qHApTCH_vSnVnPcp20l9yWdJUYgDvn54jyE6/exec)
 - [🎞️ YouTube Channel](https://www.youtube.com/watch?v=k2DSwJA6xig)
 
-  [![DanceGPT 影片](assets/DacneGPT_Startup_Animation.gif)](https://www.youtube.com/watch?v=k2DSwJA6xig)
+  [![DanceGPT 影片](https://github.com/user-attachments/assets/a3630e04-93c8-40d5-be15-09b21a5d7240)](https://www.youtube.com/watch?v=k2DSwJA6xig)
 
 - [🎮 Discord - Group Chat](https://discord.gg/7bnXN2w9pB)
 - [🅻 LINE - OpenChat](https://line.me/ti/g2/YaS5cTVNrEduL831x3sYO_0mC6MaXAGTkHsy3Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
