@@ -1,4 +1,4 @@
-# DanceGPT
+![DacneGPT_start_animate](https://github.com/user-attachments/assets/407652e5-e38d-407f-b8b1-76a64f7b1fdb)# DanceGPT
 **The Safest and Most Stable Intelligent Script**
 
 <p align="left">
@@ -15,13 +15,13 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
 - [💾 DOWNLOAD Webpage](https://script.google.com/macros/s/AKfycbzy1AtjOThE6IUElYUt0A2JQ9Hprof_qHApTCH_vSnVnPcp20l9yWdJUYgDvn54jyE6/exec)
 - [🎞️ YouTube Channel](https://www.youtube.com/watch?v=k2DSwJA6xig)
 
-  [![DanceGPT 影片](https://img.youtube.com/vi/k2DSwJA6xig/0.jpg)](https://www.youtube.com/watch?v=k2DSwJA6xig)
+  [![DanceGPT 影片](https://github.com/user-attachments/assets/77661323-2c5b-4a43-9227-060707fc6f64)](https://www.youtube.com/watch?v=k2DSwJA6xig)
 
 - [🎮 Discord - Group Chat](https://discord.gg/7bnXN2w9pB)
 - [🅻 LINE - OpenChat](https://line.me/ti/g2/YaS5cTVNrEduL831x3sYO_0mC6MaXAGTkHsy3Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
 - [🅼 Facebook - Groups](https://www.facebook.com/groups/1946366565692858/)
 
----
+
 
 ## 🛠️ 基本功能介紹
 
