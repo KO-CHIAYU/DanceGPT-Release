@@ -25,14 +25,19 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
 
 ## 🛠️ 基本功能介紹
 
+### 📱 UI介面
+   <p align="left">
+   <img src="https://github.com/user-attachments/assets/5ef28b48-8d34-407d-a89d-8cb3957971a2" width="604" height="622">
+   </p>
+
 ### 🕹️ 練功腳本
 
 - 支援腳本錄製，可自定義組合，應對高複雜度需求。
 - 超過 180 個現成腳本可直接使用，省下撰寫與調適時間。  
-  (職業與等級符合即可無腦使用)
+  (職業與等級符合即可無腦使用，經長時間測試能穩跳6小時以上)
 
   <p align="left">
-  <img src="https://github.com/user-attachments/assets/a593924f-2b73-4d8b-9964-2d47105e4a99" alt="logo_1" width="797" height="1246">
+  <img src="https://github.com/user-attachments/assets/a593924f-2b73-4d8b-9964-2d47105e4a99" width="797" height="1246">
   </p>
 
 ### 🧩 其他功能
@@ -51,12 +56,16 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
 
 - 請詳閱功能說明及使用指南，確認符合預期再購買。  
   (※ 私服可能部分功能無法使用)
-- 購買後請聯絡管理員啟用帳號權限。
+- 購買後請聯絡管理員開通帳號權限。
 - 採月訂閱制，期滿需再次付費。
 - 購買後無法退貨或更換。
 - 每套軟體限用於一台電腦。若需更換設備，請通知管理員轉移帳號（每月限1次）。
 - 帳號啟用日起算一個月，如 10 月 10 日啟用，則至 11 月 10 日到期。
-- 下載安裝完成後，請參閱資料夾中的文件以完成購買流程。
+- 下載並安裝完成後，請點擊 Dance UI，於彈出視窗中掃描 QR code 以完成購買流程。
+    <p align="left">
+  <img src="https://github.com/user-attachments/assets/8f7ae03e-d798-4514-b0c9-fce99bb6ff67" width="302" height="182">
+  </p>
+
 
 ### 🏷️ 如何獲得折扣？
 
