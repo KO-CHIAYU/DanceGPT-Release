@@ -1,4 +1,4 @@
-![DacneGPT_start_animate](https://github.com/user-attachments/assets/407652e5-e38d-407f-b8b1-76a64f7b1fdb)# DanceGPT
+# DanceGPT
 **The Safest and Most Stable Intelligent Script**
 
 <p align="left">
@@ -21,7 +21,7 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
 - [🅻 LINE - OpenChat](https://line.me/ti/g2/YaS5cTVNrEduL831x3sYO_0mC6MaXAGTkHsy3Q?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
 - [🅼 Facebook - Groups](https://www.facebook.com/groups/1946366565692858/)
 
-
+---
 
 ## 🛠️ 基本功能介紹
 
