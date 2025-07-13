@@ -115,6 +115,9 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
 <br>
 
 ## 🛠️ 前置設定 (⚠️注意: 若無照此設定將導致功能異常)
+  <p align="left">
+  <img src="https://github.com/user-attachments/assets/7646bfea-e12c-4e2a-a3d1-50671230b303" alt="Pre_Config" width="1368" height="360">
+  </p>
 
 1. **Windows 縮放比例設置**
    - 將 Windows 的縮放比例設為 **100%**。  
@@ -125,7 +128,7 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
 
 3. **小地圖與 BUFF 顯示設置**
    - 小地圖應置於 **左上角**，並顯示地圖名稱。
-   - 關閉 **BUFF 自動排序**，讓 **BUFF 狀態列** 可見。
+   - 關閉 **BUFF 自動排序**，讓 **BUFF 狀態列** 始終可見且不會被遮擋。
 
 4. **關閉外置聊天視窗**
    - 關閉所有遊戲外置的聊天視窗。
