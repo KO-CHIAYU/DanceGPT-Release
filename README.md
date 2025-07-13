@@ -105,7 +105,8 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
 <br>
 
 ### ⬆️ 更新程式
-1. **更新方式**  
+1. **更新方式**
+   - 重新執行 setup 安裝。
    - 請勿以覆蓋舊檔的方式進行程式更新。
    - 若需要保留舊設定，您可以將以下檔案從舊版本的資料夾移至新版本的資料夾中：
      - `UserData` 資料夾
@@ -168,15 +169,21 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
 職業與等級符合即可無腦使用，經長時間測試能穩跳 6 小時以上。
 
 #### 設置步驟
-1. 挑選對應職業與等級區間的地圖，下載對應腳本。
-2. 放入挑選的職業等級腳本與設定檔：
+1. 從 Dance UI 的公告區查看下載連結。
+
+<p align="left">
+<img src="https://github.com/user-attachments/assets/f19f75ea-611f-49fe-9182-d2073b8a4d4b" alt="Direct_Script_DL_link" width="302" height="102">
+</p>
+
+2. 挑選對應職業與等級區間的地圖，下載對應腳本。
+3. 放入挑選的職業等級腳本與設定檔：
    - `Direct_Script_main.m` 和 `Direct_Script_body.m` 放入 Dance 資料夾。
    - `Direct_setting.txt` 放入 `UserData` 資料夾。
-3. 設置遊戲快捷鍵：根據 `KeyboardShortcuts.png` 配置設置。
-4. 設定常駐技能（若有）：
+4. 設置遊戲快捷鍵：根據 `KeyboardShortcuts.png` 配置設置。
+6. 設定常駐技能（若有）：
    - 根據 `Direct_setting.txt`，確保常駐技能的快捷鍵出現在遊戲右下角的快捷鍵顯示介面上。 
    - 使用 `Gen_Img` 生成技能圖檔並放入 `Image_customer` 資料夾。(可參考常駐技能-設置步驟)
-5. 啟動腳本，開始快樂跳舞！
+7. 啟動腳本，開始快樂跳舞！
 
 <br>
 
