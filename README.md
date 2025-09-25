@@ -55,7 +55,8 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
 ## 💵 價格方案
 
 **NT$ 249起/月**
-<img width="1633" height="440" alt="image" src="https://github.com/user-attachments/assets/ef605e8a-79ba-43a1-a873-7466d644b071" />
+<img width="1490" height="479" alt="image" src="https://github.com/user-attachments/assets/f314007a-0caf-4c93-a28d-00a5d27899a6" />
+
 
 - 請詳閱功能說明及使用指南，確認符合預期再購買。  
   (※ 私服可能部分功能無法使用)
