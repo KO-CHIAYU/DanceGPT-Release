@@ -33,7 +33,7 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
 ### 🕹️ 練功腳本
 
 - 支援腳本錄製，可自定義組合，應對高複雜度需求。
-- 超過 180 個現成腳本可直接使用，省下撰寫與調適時間。  
+- 超過 180 個 **現成腳本** 可直接使用，省下撰寫與調適時間。  
   (職業與等級符合即可無腦使用，經長時間測試能穩跳6小時以上)
 
   <p align="left">
@@ -66,7 +66,6 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
   <img src="https://github.com/user-attachments/assets/8f7ae03e-d798-4514-b0c9-fce99bb6ff67" width="302" height="182">
   </p>
 
-
 ### 🏷️ 如何獲得折扣？
 下列方案可享優惠折扣，請依照規則操作。
 
@@ -82,6 +81,13 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
 
 - **Email**: [dancegpt0818@gmail.com](mailto:dancegpt0818@gmail.com)
 - **Facebook / Discord**: 私訊管理員
+
+**🦠 Debug / 問題回報指南**  
+- 若遇問題，請 **勿立即重啟 DanceGPT**。  
+- 立即複製以下資料：
+  - `log.txt`（程式日誌）  
+  - `Image_Capture` 資料夾  
+- 將上述資料 **壓縮後** 發送給管理員（務必壓縮以保留截圖畫質）。
 
 ---
 
