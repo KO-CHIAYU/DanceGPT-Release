@@ -128,7 +128,7 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
 
 ## 🛠️ 前置設定 (⚠️ 注意: 若未依此設定，功能將會異常) 
   <p align="left">
-  <img width="1368" height="800" alt="image" src="https://github.com/user-attachments/assets/56e0f7aa-52d8-4a5b-8844-b1d94219d0bb" />
+  <img width="1368" height="800" alt="image" src="https://github.com/user-attachments/assets/ed44bdd8-eef7-4d82-8df3-1addb168cb3a" />
   </p>
 
 
