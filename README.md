@@ -65,6 +65,7 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
     <p align="left">
   <img src="https://github.com/user-attachments/assets/8f7ae03e-d798-4514-b0c9-fce99bb6ff67" width="302" height="182">
   </p>
+  (https://tinyurl.com/DanceGPT-Payments)
 
 ### 🏷️ 如何獲得折扣？
 下列方案可享優惠折扣，請依照規則操作。
