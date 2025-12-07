@@ -37,7 +37,7 @@ DanceGPT 是一款可以自動執行鍵盤操作的 AI 助手。
   (職業與等級符合即可無腦使用，經長時間測試能穩跳6小時以上)
 
   <p align="left">
-  <img src="https://github.com/user-attachments/assets/a593924f-2b73-4d8b-9964-2d47105e4a99" width="797" height="1246">
+  <img src="https://github.com/user-attachments/assets/6a285bb2-95f7-4438-9fb4-12488832af6c" width="797" height="1246">
   </p>
 
 ### ⚔️ 其他功能
